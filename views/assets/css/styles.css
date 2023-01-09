@@ -1,0 +1,21 @@
+#AI:hover {
+  /*background-color: rgb(255,255,255) !important;*/
+  color: #9999eb;
+}
+
+#AI:acrive {
+  background-color: #ffffff;
+}
+
+#AI:active {
+  background-color: #9999eb !important;
+}
+
+#AI:focus {
+  color: #ffffff;
+}
+
+#AI:visited {
+  background-color: #9999eb !important;
+}
+
